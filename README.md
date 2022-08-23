@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @jeremiah77923
-- 👀 I’m interested in porgramming and web development.
-- 💞️ I’m looking to collaborate on web design and software development. 
-- 📫 Email me at jeremiahhawthorne828@gmail.com or call/text me at 512-635-4052. 
-<!---
-jeremiah77923/jeremiah77923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! Im Jeremiah! # 
+
+Im a freshman at UT Dallas majoring in Sotware Engineering. 
+
+About me: 
+
+1. I have been coding for about 5 years now, I started my freshman year of college and since then I have been getting better and better! 
+
+2. I am currently looking for an intership in software development! If you are recuriting please email me at jeremiahhawthorne828@gmail.com or call me at 51202020472. 
+
+3. My favorite language right now is Python, and it is the one I use the most and the one that I am best at. 
+
+4. I also known Java, and C++. 
+
+5. I love experimenting and coming up with crazy project ideas! 
+
