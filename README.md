@@ -1,6 +1,6 @@
 Hi there! Im Jeremiah! # 
 
-Im a sophomore at UT Dallas majoring in Sotware Engineering. 
+Im a Freshman at UT Dallas majoring in Sotware Engineering. 
 
 About me: 
 
